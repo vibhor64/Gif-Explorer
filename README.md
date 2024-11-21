@@ -5,6 +5,7 @@
 - Infinite Scroll
 - Multiple Themes
 - Play/pause GIFs
+- Debounced Search by Keystroke
 - Download GIFs
 - Share GIFs
 - Cross platform support
