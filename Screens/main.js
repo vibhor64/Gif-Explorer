@@ -16,7 +16,7 @@ export default function Main() {
     const [toggledGifs, setToggledGifs] = useState(new Set()); 
     const [offset, setOffset] = useState(0);
     const [debouncedQuery, setDebouncedQuery] = useState('');
-    const API_KEY = 'UPtB1DNME9gXzmoBy7m75UcSLJSzlJP8';
+    const API_KEY = 'YOUR_API_KEY';
     const LIMIT = 10; // Number of GIFs per API call
 
     // Fetch GIFs from Giphy
